@@ -1,4 +1,4 @@
-### study-of-basic-gates
+Experiment 1 :Study of logic gates
 
 **AIM:** 
 
