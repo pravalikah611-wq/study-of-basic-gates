@@ -97,3 +97,4 @@ Therefore we have studies and verified the truth table of logic gates in quartus
 
 
 
+
